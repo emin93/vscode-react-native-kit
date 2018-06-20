@@ -32,4 +32,5 @@ export default async (): Promise<void> => {
 
   const terminal = window.createTerminal();
   terminal.sendText(command);
+  terminal.show();
 };
