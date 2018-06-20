@@ -4,4 +4,4 @@ This extension extends the feature set of the official React Native Tools. If yo
 
 ## :star: Features
 
-![feature Create Project](images/feature-create-project.png)
+![feature Create Project](images/feature-create-project.gif)
